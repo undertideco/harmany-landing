@@ -1,3 +1,16 @@
+* {
+	font-family: sans-serif;
+}
+
 #cover {
 	background-image: url("./img/cover.jpg");
+}
+
+.feature > h2 {
+	color: #CC8CD1;
+}
+
+.feature > svg {
+	max-width:4rem;
+	fill: #CC8CD1;
 }
